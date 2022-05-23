@@ -1,0 +1,19 @@
+{
+    "name": "erwan/rezenlite",
+    "description": "composer for rezenlite",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erwan, manchon",
+            "email": "er@g.c"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "robthree/twofactorauth": "^1.8"
+    }
+}

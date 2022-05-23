@@ -1,0 +1,28 @@
+{
+    "online": true,
+    "maintenance": {
+        "reason": "traveaux",
+        "end": "Indefini"
+    },
+    "default_page": "home",
+    "lang": {
+        "default": "fr"
+    },
+    "info": {
+        "generale": {
+            "version": "0.1D",
+            "ralease": "28/12/2021",
+            "php_versions": "8",
+            "html_versions": "5"
+        },
+        "noyau": {
+            "noyau_name": "Sakura",
+            "noyau_version": "0.1",
+            "noyau_release": "28/12/2021"
+        },
+        "api": {
+            "api_version": "N/A",
+            "api_release": "N/A"
+        }
+    }
+}
